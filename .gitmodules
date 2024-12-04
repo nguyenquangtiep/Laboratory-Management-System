@@ -1,0 +1,3 @@
+[submodule "lab-frontend"]
+	path = lab-frontend
+	url = https://github.com/nguyenquangtiep/lab-frontend.git
